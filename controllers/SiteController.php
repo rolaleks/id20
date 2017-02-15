@@ -4,10 +4,8 @@ namespace app\controllers;
 
 use app\models\DataSearch;
 use Yii;
-use yii\filters\AccessControl;
 use yii\web\Controller;
-use yii\data\Pagination;
-use yii\db\Query;
+
 
 class SiteController extends Controller
 {
